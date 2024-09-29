@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from USA</h3>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: [linkedin](https://www.linkedin.com/in/constanza-castella/)</h3>
 <p align="center">
 </p>
 
